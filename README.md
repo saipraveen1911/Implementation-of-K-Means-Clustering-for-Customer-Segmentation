@@ -76,5 +76,9 @@ print(df)
 
 ## Output:
 
+<img width="898" height="669" alt="ML EXP - 11 (1)" src="https://github.com/user-attachments/assets/6893f766-7922-4bc1-ad34-1d6a9fb2792f" />
+
+<img width="899" height="501" alt="ML EXP - 11 (2)" src="https://github.com/user-attachments/assets/864a66ca-93d3-4987-9575-3f6c0ba3ed67" />
+
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
